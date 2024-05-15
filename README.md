@@ -1,7 +1,7 @@
 <h1> Hi, I'm Jacob Ball!</h1>
 <img src = 'https://cdn.wallpapersafari.com/74/67/G0vIpR.gif' width="256px" height="256px" align='right'/>
 
-I'm a Data Science student at Codeup <img src = 'https://external-content.duckduckgo.com/ip3/codeup.edu.ico' width="20px" height="20px"/>.
+I'm a Data Science student.
 Data Science interests me because data is everywhere and there is always a way to use it to improve our world!
 - <img src = 'https://external-content.duckduckgo.com/ip3/brand.linkedin.com.ico' width="20px" height="20px"/> Connect with me on [LinkedIn](https://www.linkedin.com/in/jacob-ball-546438228/)
 - <img src = 'https://external-content.duckduckgo.com/ip3/www.codewars.com.ico' width="20px" height="20px"/> My [CodeWars](https://www.codewars.com/users/Kurmudge) Page
